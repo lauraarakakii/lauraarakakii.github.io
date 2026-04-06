@@ -19,7 +19,7 @@ In the previous post I walked through the end-to-end Spark ETL pipeline that tur
 Now I’m releasing the **interactive dashboard** that was built on top of those two files. This is the final visualization layer of the OnboardingFlow project — the place where all the numbers come alive.
 
 You can explore the live dashboard here:  
-**[→ netdev Contributor Funnel Dashboard](https://lauraarakakii.github.io/onboardingflow/)** *(link will be updated once deployed)*
+**[→ netdev Contributor Funnel Dashboard](https://dashflow.streamlit.app/)** 
 
 ---
 
@@ -118,6 +118,6 @@ If you are a Linux kernel maintainer, OSS researcher, or just curious about how 
 
 ---
 
-**Repository**: [github.com/lauraarakakii/onboardingflow](https://github.com/lauraarakakii/onboardingflow)  
+**Repository**: [github.com/lauraarakakii/onboardingflow](https://github.com/lauraarakakii/onboarding-flow)  
 **Previous post**: [OnboardingFlow Journal → ETL Pipeline](https://lauraarakakii.github.io/posts/manuscript/)  
-**Live Dashboard** (soon): link will be posted here
+**Live Dashboard**: [Dashboard Netdev](https://dashflow.streamlit.app/)
